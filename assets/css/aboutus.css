@@ -1,0 +1,56 @@
+/* About us templet*/
+/*header_text*/
+.header_text h5{
+    font-size: 18px!important;;
+    font-weight: 700!important;;
+    word-spacing: 4px!important;;
+    line-height: 1.4!important;;
+    font-family: 'Raleway', sans-serif;
+}
+.header_text h1{
+    font-size: 36px!important;
+    font-weight: 900!important;
+    word-spacing: 4px!important;
+    line-height: 1.4!important;
+    font-family: 'Raleway', sans-serif;
+}
+.body_text p{
+    font-size: 15px!important;;
+    word-spacing: 4px!important;;
+    line-height: 1.4!important;;
+    font-family: 'Roboto', sans-serif;
+    text-align: left!important;;
+    margin-bottom: 25px!important;;
+
+}
+.right_{
+    width: 48%;
+    display: inline-block;
+    float: left;
+    margin-right: 14px;
+}
+.left_{
+    width: 48%;
+    display: inline-block;
+}
+.right_ p a{
+    text-decoration: none;
+}
+.content-md{
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+    margin-top: 20px;
+}
+.content{
+    /* background-image: url("../img/A_site/bg-hor-lines.png"); */
+    margin-top: 27px;
+    margin-bottom: 32px;
+    padding-left: 36px;
+    padding-right: 50px;
+}
+.SmileHead span{
+    margin-left: 0px; 
+}
+
+/* footer */
+

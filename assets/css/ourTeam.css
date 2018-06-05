@@ -1,0 +1,64 @@
+.content_header{
+    margin-bottom: 55px;
+}
+.content_header h1{
+    font-size: 42px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 1000;
+    margin-bottom: 20px;
+}
+.content_header span{
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    display: block;
+}
+.content_body p{
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 82px;
+}
+.content_footer>div>div>ul>li{
+    float: left;
+    list-style-type: none;
+    margin-left: 13px;
+    margin-bottom: 38px;
+
+}
+.facebook{
+    background: #3b5998 !important;
+    color: #fff;
+    border-radius: 7px !important;
+}
+.facebook:hover{
+    color: #fff;
+}
+.heart:hover{
+    color: #fff;
+}
+.linkedin:hover{
+    color: #fff;
+}
+.google_plus:hover{
+    color: #fff;
+}
+
+.twitter{
+    background: #00b6f1 !important;
+    color: #fff;
+    border-radius: 7px !important;
+}
+.google_plus{
+    background: #dd4b39 !important;
+    color: #fff;
+    border-radius: 7px !important;
+}
+.linkedin{
+    background: #1b86bd !important;
+    color: #fff;
+    border-radius: 7px !important;
+}
+.heart{
+    background: #f14d65 !important;
+    color: #fff;
+    border-radius: 7px !important;
+}

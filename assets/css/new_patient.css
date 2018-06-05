@@ -1,0 +1,60 @@
+.content{
+    background-image: url("../img/A_site/bg-hor-lines.png");
+    margin-top: 27px;
+    padding-left: 36px;
+    padding-right: 50px;
+}
+.header_text h5{
+    margin-top: 20px;
+}
+.body_text p{
+    font-size: 18px!important;
+}
+.text_box1,.text_box2 ,.text_box3 p{
+    font-size: 17px!important;
+    word-spacing: 4px!important;
+    line-height: 1.4!important;
+    font-family: 'Roboto', sans-serif;
+    text-align: left!important;
+    margin-bottom: 25px!important;
+}
+.text_box3 p{
+    text-align: center !important;
+}
+.start {
+    text-align: center !important;
+    font-size: 19px;
+    color: rgb(255, 157, 88);
+}
+.text_box4{
+    font-size: 17px!important;
+    word-spacing: 4px!important;
+    line-height: 1.4!important;
+    font-family: 'Roboto', sans-serif;
+    text-align: center !important;
+    margin-top: 15px!important;
+}
+.box_green{
+    padding: 100px;
+    text-align: center;
+    background: #82bd07!important;
+}
+.box_green1 h1,.box_green2 p{
+    color: #fff;
+}
+.box_green_button button{
+    border: none;
+    padding: 10px;
+    border-radius: 20px !important;
+    width: 150px;
+    background: #0591ab!important;
+}
+.box_green_button span{
+    border: 1px solid #ccc;
+    padding: 14px;
+    border-radius: 50% !important;
+    background: #fff;
+    opacity: 0.9;
+    color: #555;
+    font-weight: 700;
+}
